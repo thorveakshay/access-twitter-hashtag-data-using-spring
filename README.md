@@ -18,25 +18,18 @@ mvn spring-boot:run
 ```
 https://start.spring.io/
 ```
-
 * Select spring version Spring Boot
-
 * Fill the Project Metadata
-
 * Click on Switch to the full version link below generate project button.
-
 * Select web and Twitter dependancy
-
 * Generate project
-
-* import downloaded zip as a maven project in eclipse
-
+* Import downloaded zip as a maven project in eclipse
 * Create developer app on twitter and put your details in applications.properties
 ```
 spring.social.twitter.app-id=
 spring.social.twitter.app-secret=
 ```
-* Hit below url
+Hit below url
 ```
 http://localhost:8080/tweets/%23manutd
 
@@ -51,12 +44,12 @@ you will get latest 25 tweets for that hashtag
 Below are snapshot. Do whatever you want to achieve with this data.
 
 ```
-* For manutd hashtag
+For manutd hashtag
 ```
 <img src="snapshots/manutd.png" width="100%" >
 
 ```
-* For smile hashtag
+For smile hashtag
 ```
 <img src="snapshots/smile.png" width="100%" >
 
