@@ -46,6 +46,20 @@ you will get latest 25 tweets for that hashtag
 
 * You can replace manutd with any other hashtag of your choice in browser
 
+## Output
+
+Below are snapshot. Do whatever you want to achieve with this data.
+
+```
+* For manutd hashtag
+```
+<img src="snapshots/manutd.png" width="100%" >
+
+```
+* For smile hashtag
+```
+<img src="snapshots/smile.png" width="100%" >
+
 ## Acknowledgments
 
 * Philip Starritt
